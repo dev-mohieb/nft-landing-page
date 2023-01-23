@@ -10,7 +10,5 @@ which is why I styled the 'a' elements as buttons instead of using 'button' elem
 'a' elements serve the purpose of this website's "buttons", since they link to other pages,
 while the 'button' elements don't.
 
-I also added responsivity using Flexbox and Grid, two proprties which I have incorporated on my
-own, not from Scrimba's course.
 
 Live: ---

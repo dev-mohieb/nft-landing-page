@@ -117,7 +117,7 @@ footer {
     color: var(--blue);
 }
 
-/* media q*/ 
+/* Media Query*/ 
 @media (min-width: 1400px) {
     /* Typography */
 
@@ -132,8 +132,13 @@ footer {
     h3 {
         font-size: 1.7em;
     }
+
     p {
         font-size: 1.3em;
+    }
+
+    footer p {
+        font-size: 1.1em;
     }
 
     /* Layout */

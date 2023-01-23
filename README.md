@@ -10,5 +10,5 @@ which is why I styled the 'a' elements as buttons instead of using 'button' elem
 'a' elements serve the purpose of this website's "buttons", since they link to other pages,
 while the 'button' elements don't.
 
-
+Lastly, I added responsivity for larger and smaller screens, which wasn't a part of this lesson.
 Live: ---

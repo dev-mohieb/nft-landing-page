@@ -11,4 +11,5 @@ which is why I styled the 'a' elements as buttons instead of using 'button' elem
 while the 'button' elements don't.
 
 Lastly, I added responsivity for larger and smaller screens, which wasn't a part of this lesson.
-Live: ---
+
+Live: https://mohieb-nft-landing.netlify.app/
